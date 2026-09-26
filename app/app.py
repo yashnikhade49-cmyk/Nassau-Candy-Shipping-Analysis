@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
 
 # --------------------------------------------------
@@ -31,8 +32,10 @@ st.write(
 # --------------------------------------------------
 
 DATA_PATH = (
-    r"D:\Nassu Project\Nassau-Candy-Shipping-Analysis"
-    r"\data\processed\feature_engineered_data.csv"
+    Path(__file__).resolve().parent.parent
+    / "data"
+    / "processed"
+    / "feature_engineered_data.csv"
 )
 
 df = pd.read_csv(DATA_PATH)
@@ -339,15 +342,16 @@ st.subheader("🛣️ Route Efficiency Overview")
 
 # Load route efficiency analysis
 ROUTE_PATH = (
-    r"D:\Nassu Project\Nassau-Candy-Shipping-Analysis"
-    r"\data\processed\final_route_efficiency_analysis.csv"
+    Path(__file__).resolve().parent.parent
+    / "data"
+    / "processed"
+    / "final_route_efficiency_analysis.csv"
 )
 
 route_analysis = pd.read_csv(
     ROUTE_PATH,
     index_col=0
 )
-
 
 # --------------------------------------------------
 # APPLY DASHBOARD FILTERS TO ROUTE DATA
