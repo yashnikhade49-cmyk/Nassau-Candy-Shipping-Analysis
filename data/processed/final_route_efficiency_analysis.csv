@@ -1,0 +1,97 @@
+Route,Shipment_Volume,Average_Lead_Time,Minimum_Lead_Time,Maximum_Lead_Time,Delayed_Shipments,Delay_Frequency,Efficiency_Score,Route_Classification
+Wicked Choccy's → Nevada,12,1182.25,908,1639,1,8.333333333333332,100.0,Efficient & Low Delay
+Secret Factory → Texas,16,1227.0625,905,1641,3,18.75,85.39,Efficient & Low Delay
+Lot's O' Nuts → Virginia,109,1229.48623853211,905,1641,15,13.761467889908255,84.6,Efficient & Low Delay
+Wicked Choccy's → South Carolina,19,1234.2105263157894,904,1641,2,10.526315789473683,83.05,Efficient & Low Delay
+Lot's O' Nuts → Utah,29,1236.0,906,1640,6,20.689655172413797,82.47,Efficient but Delay-Prone
+Wicked Choccy's → Virginia,106,1238.877358490566,904,1642,13,12.264150943396226,81.53,Efficient & Low Delay
+Wicked Choccy's → Mississippi,22,1240.4545454545455,907,1640,2,9.090909090909092,81.02,Efficient & Low Delay
+Lot's O' Nuts → Nevada,24,1243.25,904,1641,4,16.666666666666664,80.11,Efficient & Low Delay
+Wicked Choccy's → Quebec,24,1243.5833333333333,907,1642,7,29.166666666666668,80.0,Efficient but Delay-Prone
+Lot's O' Nuts → Oregon,77,1245.1948051948052,906,1642,13,16.883116883116884,79.47,Efficient & Low Delay
+Lot's O' Nuts → Ontario,28,1246.2857142857142,906,1639,1,3.571428571428571,79.12,Efficient & Low Delay
+Wicked Choccy's → Ontario,30,1248.5666666666666,906,1639,4,13.333333333333334,78.37,Efficient & Low Delay
+Lot's O' Nuts → Kansas,15,1248.8666666666666,908,1639,1,6.666666666666667,78.27,Efficient & Low Delay
+Wicked Choccy's → Louisiana,15,1272.2666666666669,906,1640,2,13.333333333333334,70.64,Efficient & Low Delay
+Lot's O' Nuts → New Hampshire,13,1272.4615384615386,906,1637,0,0.0,70.58,Efficient & Low Delay
+Wicked Choccy's → Alabama,22,1272.7272727272727,906,1639,5,22.727272727272727,70.49,Efficient but Delay-Prone
+Wicked Choccy's → Connecticut,31,1272.8709677419354,904,1642,6,19.35483870967742,70.45,Efficient & Low Delay
+Lot's O' Nuts → Delaware,43,1273.3023255813953,906,1641,9,20.930232558139537,70.31,Efficient but Delay-Prone
+Wicked Choccy's → Utah,23,1273.4782608695652,909,1639,4,17.391304347826086,70.25,Efficient & Low Delay
+Wicked Choccy's → Arkansas,27,1273.5185185185185,908,1642,6,22.22222222222222,70.24,Efficient but Delay-Prone
+Wicked Choccy's → Delaware,49,1273.7142857142858,906,1641,8,16.3265306122449,70.17,Efficient & Low Delay
+Lot's O' Nuts → British Columbia,18,1273.7777777777778,906,1640,5,27.77777777777778,70.15,Efficient but Delay-Prone
+Lot's O' Nuts → Alberta,16,1273.875,909,1640,4,25.0,70.12,Efficient but Delay-Prone
+Lot's O' Nuts → Oklahoma,41,1282.6829268292684,909,1641,6,14.634146341463412,67.25,Efficient & Low Delay
+Lot's O' Nuts → Arkansas,31,1285.354838709677,908,1642,6,19.35483870967742,66.38,Efficient & Low Delay
+Lot's O' Nuts → South Carolina,21,1290.2857142857142,904,1641,2,9.523809523809524,64.77,Efficient & Low Delay
+Wicked Choccy's → Michigan,100,1291.85,906,1642,15,15.0,64.26,Efficient & Low Delay
+Lot's O' Nuts → Massachusetts,76,1292.1184210526317,906,1641,12,15.789473684210526,64.17,Efficient & Low Delay
+Lot's O' Nuts → Alabama,34,1295.2058823529412,906,1642,7,20.588235294117645,63.16,Efficient but Delay-Prone
+Lot's O' Nuts → Rhode Island,30,1296.9,906,1640,2,6.666666666666667,62.61,Efficient & Low Delay
+Lot's O' Nuts → Mississippi,30,1297.6666666666667,906,1642,6,20.0,62.36,Efficient & Low Delay
+Wicked Choccy's → Nebraska,14,1299.2857142857142,905,1641,2,14.285714285714285,61.83,Efficient & Low Delay
+Secret Factory → Ohio,13,1301.2307692307693,906,1639,3,23.07692307692308,61.2,Efficient but Delay-Prone
+Lot's O' Nuts → Louisiana,24,1302.9583333333333,906,1639,3,12.5,60.63,Efficient & Low Delay
+Lot's O' Nuts → Michigan,147,1303.0068027210884,906,1642,22,14.965986394557824,60.62,Efficient & Low Delay
+Wicked Choccy's → Florida,161,1305.0931677018634,904,1642,36,22.36024844720497,59.94,Efficient but Delay-Prone
+Lot's O' Nuts → Arizona,111,1306.1981981981985,904,1642,19,17.117117117117118,59.58,Efficient & Low Delay
+Secret Factory → California,31,1308.2903225806451,904,1640,5,16.129032258064516,58.9,Efficient & Low Delay
+Lot's O' Nuts → Texas,569,1310.4604569420037,904,1642,113,19.85940246045694,58.19,Efficient & Low Delay
+Wicked Choccy's → Missouri,29,1311.103448275862,907,1642,7,24.13793103448276,57.98,Efficient but Delay-Prone
+Secret Factory → Pennsylvania,19,1311.3684210526317,906,1640,5,26.31578947368421,57.89,Efficient but Delay-Prone
+Wicked Choccy's → New York,436,1311.883027522936,904,1642,87,19.95412844036697,57.72,Efficient & Low Delay
+Wicked Choccy's → Wisconsin,47,1312.2340425531916,906,1641,8,17.02127659574468,57.61,Efficient & Low Delay
+Wicked Choccy's → Ohio,189,1313.3544973544974,904,1642,41,21.693121693121693,57.24,Efficient but Delay-Prone
+Lot's O' Nuts → North Carolina,143,1314.1958041958042,907,1642,24,16.783216783216783,56.97,Efficient & Low Delay
+Lot's O' Nuts → Pennsylvania,331,1315.0634441087614,904,1642,69,20.84592145015106,56.69,Efficient but Delay-Prone
+Wicked Choccy's → Texas,388,1315.6082474226805,904,1642,79,20.36082474226804,56.51,Efficient & Low Delay
+Wicked Choccy's → Oregon,43,1316.1627906976744,906,1642,11,25.58139534883721,56.33,Efficient but Delay-Prone
+Lot's O' Nuts → California,1125,1316.9102222222225,904,1642,231,20.53333333333333,56.08,Inefficient & Delay-Prone
+Lot's O' Nuts → Florida,209,1318.6076555023924,904,1642,50,23.92344497607656,55.53,Inefficient & Delay-Prone
+Wicked Choccy's → Colorado,70,1319.8428571428572,904,1641,10,14.285714285714285,55.13,Inefficient but Low Delay
+Lot's O' Nuts → Illinois,267,1319.9325842696628,906,1642,56,20.973782771535586,55.1,Inefficient & Delay-Prone
+Wicked Choccy's → California,823,1320.3268529769136,904,1642,174,21.142162818955043,54.97,Inefficient & Delay-Prone
+Wicked Choccy's → Arizona,105,1322.1142857142856,904,1642,21,20.0,54.39,Inefficient but Low Delay
+Wicked Choccy's → Kentucky,58,1323.8103448275865,904,1641,8,13.79310344827586,53.83,Inefficient but Low Delay
+The Other Factory → California,21,1325.0,908,1640,3,14.285714285714285,53.45,Inefficient but Low Delay
+Lot's O' Nuts → Kentucky,77,1325.4025974025974,904,1641,10,12.987012987012983,53.31,Inefficient but Low Delay
+Wicked Choccy's → Maryland,41,1326.7073170731708,908,1642,4,9.75609756097561,52.89,Inefficient but Low Delay
+Secret Factory → Illinois,13,1328.6923076923076,907,1641,1,7.6923076923076925,52.24,Inefficient but Low Delay
+Wicked Choccy's → Illinois,210,1329.1285714285714,906,1642,50,23.809523809523807,52.1,Inefficient & Delay-Prone
+Lot's O' Nuts → Georgia,110,1329.5636363636363,904,1642,25,22.727272727272727,51.96,Inefficient & Delay-Prone
+Lot's O' Nuts → New York,645,1330.5162790697675,904,1642,140,21.705426356589147,51.65,Inefficient & Delay-Prone
+Wicked Choccy's → Minnesota,45,1330.6888888888889,906,1642,13,28.88888888888889,51.59,Inefficient & Delay-Prone
+Wicked Choccy's → Oklahoma,25,1332.0,909,1642,5,20.0,51.16,Inefficient but Low Delay
+Lot's O' Nuts → Ohio,262,1334.1145038167938,904,1642,44,16.793893129770993,50.47,Inefficient but Low Delay
+Lot's O' Nuts → Quebec,24,1334.125,904,1642,7,29.166666666666668,50.47,Inefficient & Delay-Prone
+Wicked Choccy's → Massachusetts,54,1334.4444444444443,906,1642,11,20.37037037037037,50.37,Inefficient but Low Delay
+Wicked Choccy's → New Jersey,59,1335.3898305084747,906,1642,14,23.728813559322035,50.06,Inefficient & Delay-Prone
+Lot's O' Nuts → New Jersey,65,1335.6615384615384,907,1642,20,30.76923076923077,49.97,Inefficient & Delay-Prone
+Lot's O' Nuts → Nebraska,23,1336.1304347826087,905,1639,4,17.391304347826086,49.82,Inefficient but Low Delay
+Wicked Choccy's → Pennsylvania,227,1339.2202643171806,906,1642,56,24.669603524229075,48.81,Inefficient & Delay-Prone
+Wicked Choccy's → New Hampshire,11,1340.090909090909,906,1641,3,27.27272727272727,48.52,Inefficient & Delay-Prone
+Lot's O' Nuts → Washington,269,1343.9628252788104,904,1642,60,22.30483271375465,47.26,Inefficient & Delay-Prone
+Wicked Choccy's → Georgia,65,1346.1538461538462,904,1642,17,26.15384615384616,46.55,Inefficient & Delay-Prone
+Lot's O' Nuts → Colorado,103,1347.5339805825242,904,1642,19,18.446601941747574,46.1,Inefficient but Low Delay
+Lot's O' Nuts → Minnesota,43,1350.3953488372092,906,1642,15,34.88372093023256,45.16,Inefficient & Delay-Prone
+Lot's O' Nuts → Idaho,14,1351.357142857143,908,1641,3,21.428571428571427,44.85,Inefficient & Delay-Prone
+The Other Factory → New York,14,1351.928571428571,906,1641,7,50.0,44.66,Inefficient & Delay-Prone
+Wicked Choccy's → North Carolina,101,1352.7623762376238,904,1642,22,21.782178217821784,44.39,Inefficient & Delay-Prone
+Wicked Choccy's → Rhode Island,21,1359.6666666666667,906,1640,1,4.761904761904762,42.14,Inefficient but Low Delay
+Lot's O' Nuts → Missouri,36,1364.8333333333333,907,1640,10,27.77777777777778,40.46,Inefficient & Delay-Prone
+Lot's O' Nuts → Indiana,90,1366.7888888888888,907,1642,22,24.444444444444443,39.82,Inefficient & Delay-Prone
+Lot's O' Nuts → Wisconsin,58,1367.6379310344828,906,1641,15,25.86206896551724,39.54,Inefficient & Delay-Prone
+Lot's O' Nuts → Maryland,60,1370.6666666666667,908,1641,12,20.0,38.55,Inefficient but Low Delay
+Wicked Choccy's → Washington,221,1375.7239819004526,904,1642,58,26.24434389140272,36.9,Inefficient & Delay-Prone
+Secret Factory → New York,24,1379.625,905,1641,6,25.0,35.63,Inefficient & Delay-Prone
+Lot's O' Nuts → Tennessee,109,1390.9633027522937,906,1642,34,31.19266055045872,31.93,Inefficient & Delay-Prone
+Wicked Choccy's → Tennessee,67,1393.761194029851,908,1641,22,32.83582089552239,31.02,Inefficient & Delay-Prone
+Wicked Choccy's → Indiana,54,1402.462962962963,904,1642,23,42.5925925925926,28.18,Inefficient & Delay-Prone
+Wicked Choccy's → Iowa,14,1403.7857142857142,909,1641,4,28.57142857142857,27.75,Inefficient & Delay-Prone
+Lot's O' Nuts → Connecticut,47,1420.5531914893618,906,1641,17,36.17021276595745,22.28,Inefficient & Delay-Prone
+Wicked Choccy's → Manitoba,10,1455.6,1271,1639,4,40.0,10.85,Inefficient & Delay-Prone
+Lot's O' Nuts → New Mexico,18,1456.9444444444443,909,1642,10,55.55555555555556,10.42,Inefficient & Delay-Prone
+Secret Factory → Washington,11,1472.3636363636365,1270,1641,2,18.181818181818183,5.39,Inefficient but Low Delay
+Lot's O' Nuts → Iowa,16,1479.0,1270,1641,6,37.5,3.22,Inefficient & Delay-Prone
+Wicked Choccy's → New Mexico,17,1488.8823529411766,909,1641,11,64.70588235294117,0.0,Inefficient & Delay-Prone

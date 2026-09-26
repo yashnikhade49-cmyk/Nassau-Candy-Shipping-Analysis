@@ -1,0 +1,5 @@
+Analysis Area,Key Metric,Interpretation
+Route Efficiency,100.0,Highest observed route efficiency score
+Route Delays,64.70588235294117,Highest observed route delay frequency
+Geographic Performance,1638.0,Highest observed state average lead time
+Ship Mode Performance,1314.33,Lowest observed ship mode average lead time

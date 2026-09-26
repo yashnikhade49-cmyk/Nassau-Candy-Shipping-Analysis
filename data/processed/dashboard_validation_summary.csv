@@ -1,0 +1,9 @@
+Validation Test,Status
+Dataset loaded,PASS
+Dataset shape verified,PASS
+KPI calculations verified,PASS
+Ship mode calculations verified,PASS
+Route columns verified,PASS
+Efficiency score verified,PASS
+Geographic columns verified,PASS
+Data quality checked,PASS
